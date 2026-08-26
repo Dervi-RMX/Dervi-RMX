@@ -1,10 +1,184 @@
-<!-- ═══════════════════════════════════════════════════════════ README.md para Dervi-RMX Estilo: Cyberpunk/Hacker Dark Theme ═══════════════════════════════════════════════════════════ -->
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=DERVI+RMX;Developer+%26+Cybersecurity;Automation+%26+AI;Building+Real+Projects" alt="Typing SVG" /> </p>
-```diff
-+ ██████╗ ███████╗██████╗ ██╗   ██╗██╗     ██████╗ ███╗   ███╗██╗  ██╗
-+ ██╔══██╗██╔════╝██╔══██╗██║   ██║██║     ██╔══██╗████╗ ████║╚██╗██╔╝
-+ ██████╔╝█████╗  ██████╔╝██║   ██║██║     ██████╔╝██╔████╔██║ ╚███╔╝ 
-+ ██╔══██╗██╔══╝  ██╔══██╗██║   ██║██║     ██╔══██╗██║╚██╔╝██║ ██╔██╗ 
-+ ██║  ██║███████╗██║  ██║╚██████╔╝███████╗██████╔╝██║ ╚═╝ ██║██╔╝ ██╗
-+ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝
-<br> ## 🎯 **ABOUT ME** ```ascii ┌─────────────────────────────────────────────────────────────────┐ │ │ │ ⚡ Developer | 🔐 Cybersecurity | 🤖 Automation | 🧠 AI │ │ │ │ "Building real projects. Learning by breaking things." │ │ │ │ 🎮 CTF Enthusiast | 🛠️ Backend Dev | 🌐 API Builder │ │ │ └─────────────────────────────────────────────────────────────────┘ ``` Soy **Dervi RMX**, un desarrollador que prefiere ensuciarse las manos con código real antes que teorizar. Mi método de aprendizaje es simple: **construir, probar, romper, entender y mejorar**. Cada proyecto es una oportunidad para explorar nuevos límites en ciberseguridad, automatización e inteligencia artificial. <br> ## 🚀 **PROYECTOS EN CARTERA** <table> <tr> <td width="33%" align="center"> <a href="https://github.com/Dervi-RMX/bot-dervi-whatsapp"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dervi-RMX&repo=bot-dervi-whatsapp&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41" alt="Bot Dervi WhatsApp"> </a> <br> <strong>🤖 BOT Dervi WhatsApp</strong> <br> <em>JavaScript · Node.js · MIT</em> <br><br> <details> <summary>📋 Características</summary> <ul> <li>⚡ Comandos personalizados</li> <li>🛡️ Anti-spam y Anti-links</li> <li>🧠 Integración con IA</li> <li>👥 Gestión de usuarios</li> <li>🎨 Herramientas multimedia</li> </ul> </details> </td> <td width="33%" align="center"> <a href="https://github.com/Dervi-RMX/blackforge-ctf"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dervi-RMX&repo=blackforge-ctf&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41" alt="BlackForge CTF"> </a> <br> <strong>🛡️ BlackForge CTF</strong> <br> <em>PHP · MIT</em> <br><br> <details> <summary>📋 Características</summary> <ul> <li>🔐 Entornos CTF educativos</li> <li>📚 Laboratorios de seguridad</li> <li>🔍 Investigación forense</li> <li>⚔️ Escenarios de ataque/defensa</li> </ul> </details> </td> <td width="33%" align="center"> <a href="https://github.com/Dervi-RMX/ctf-69flags-challenge"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dervi-RMX&repo=ctf-69flags-challenge&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41" alt="69 Flags Challenge"> </a> <br> <strong>🚩 69 Flags Challenge</strong> <br> <em>Python · Docker</em> <br><br> <details> <summary>📋 Características</summary> <ul> <li>🎯 69 banderas (1 real, 68 señuelos)</li> <li>🐳 Contenerizado con Docker</li> <li>🔎 Entrena tu ojo detectivesco</li> <li>🏆 Perfecto para principiantes en CTF</li> </ul> </details> </td> </tr> </table> <br> ## 🧰 **TECH STACK** <p align="center"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </p> <br> ## 📊 **GITHUB ANALYTICS** <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dervi-RMX&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" width="49%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dervi-RMX&theme=radical&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41" width="49%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dervi-RMX&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" width="60%" /> </p> <br> ## 💀 **TERMINAL SESSION** ```bash ┌─[dervi@darkforge]─[~] └──╼ $ whoami Dervi-RMX ┌─[dervi@darkforge]─[~] └──╼ $ ls -la projects/ total 3 drwxr-xr-x 1 dervi dervi 4096 Aug 26 12:00 . drwxr-xr-x 1 dervi dervi 4096 Aug 26 12:00 .. drwxr-xr-x 1 dervi dervi 4096 Aug 24 10:00 bot-dervi-whatsapp drwxr-xr-x 1 dervi dervi 4096 Aug 20 08:00 blackforge-ctf drwxr-xr-x 1 dervi dervi 4096 Aug 15 15:00 ctf-69flags-challenge ┌─[dervi@darkforge]─[~] └──╼ $ cat mission.txt ┌─────────────────────────────────────────┐ │ 🎯 MISIÓN: │ │ │ │ ████████ BUILD real projects │ │ ████████ LEARN by doing │ │ ████████ TEST boundaries │ │ ████████ BREAK to understand │ │ ████████ IMPROVE every iteration │ │ ████████ REPEAT the cycle │ │ │ │ 💀 "The only way to win is to play" │ └─────────────────────────────────────────┘ ┌─[dervi@darkforge]─[~] └──╼ $ ./cycle.sh 🔨 BUILD ↓ 🧪 TEST ↓ 💥 BREAK ↓ 📖 UNDERSTAND ↓ 🔧 IMPROVE ↓ 🔄 BUILD AGAIN ┌─[dervi@darkforge]─[~] └──╼ $ exit ``` <br> ## 🏴 **CTF & SECURITY LABS** ```ascii ┌──────────────────────────────────────────────────────────────┐ │ SECURITY FOCUS AREAS │ ├──────────────────────────────────────────────────────────────┤ │ │ │ 🎯 CTF Challenges ████████████████░░░░ 80% │ │ 🔬 Security Labs ███████████████░░░░░ 75% │ │ 🛡️ App Security ████████████░░░░░░░░ 60% │ │ 🐧 Linux Hardening ███████████░░░░░░░░░ 55% │ │ 🌐 Network Pentesting ██████████░░░░░░░░░░ 50% │ │ 🤖 Automation Security ████████░░░░░░░░░░░░ 40% │ │ │ └──────────────────────────────────────────────────────────────┘ ``` <br> ## 🎮 **ACTIVIDAD RECIENTE** <!-- RECENT_ACTIVITY:start --> - 🔥 Actualizado **Bot Dervi WhatsApp** (hace 2 días) - 🛡️ Mejoras en **BlackForge CTF** (hace 3 semanas) - 🚩 Lanzado **69 Flags Challenge** (hace 1 mes) <!-- RECENT_ACTIVITY:end --> <br> ## 📫 **CONNECT WITH ME** <p align="center"> <a href="https://github.com/Dervi-RMX"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/tu-perfil/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://twitter.com/tu-usuario"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /> </a> <a href="https://discord.gg/tu-invite"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a> </p> <br> --- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Dervi-RMX&label=👁️+PROFILE+VIEWS&color=00FF41&style=flat" /> </p> <p align="center"> <strong> <span style="color:#00FF41;">◢</span> BUILD · LEARN · TEST · IMPROVE <span style="color:#00FF41;">◣</span> </strong> <br><br> <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF41?style=flat-square&labelColor=0d1117" /> <img src="https://img.shields.io/badge/MODE-UNDER_CONSTRUCTION-FF6B6B?style=flat-square&labelColor=0d1117" /> <br><br> <code>© 2026 Dervi RMX · God of Dark</code> </p> ```
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=48&duration=1800&pause=700&color=FF1744&center=true&vCenter=true&width=800&height=80&lines=DERVI+RMX;CYBERSECURITY;CTF+%26+SECURITY+LABS" alt="Dervi RMX">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=700&height=35&lines=Cybersecurity+Student;Hack4U+%7C+Hack+The+Box;Learning+through+practical+security" alt="Cybersecurity">
+
+<br>
+
+<img src="https://img.shields.io/badge/CYBERSECURITY-FF1744?style=for-the-badge&labelColor=0B0F14">
+<img src="https://img.shields.io/badge/CTF-7C4DFF?style=for-the-badge&labelColor=0B0F14">
+<img src="https://img.shields.io/badge/SECURITY_LABS-00C853?style=for-the-badge&labelColor=0B0F14">
+<img src="https://img.shields.io/badge/HACK_THE_BOX-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=0B1110&labelColor=0B0F14">
+
+<br><br>
+
+<a href="https://github.com/Dervi-RMX">
+<img src="https://img.shields.io/badge/GitHub-Dervi--RMX-111827?style=flat-square&logo=github">
+</a>
+<a href="https://app.hackthebox.com/profile/overview">
+<img src="https://img.shields.io/badge/HTB-@dervi-9FEF00?style=flat-square&logo=hackthebox&logoColor=0B1110">
+</a>
+<a href="https://hack4u.io">
+<img src="https://img.shields.io/badge/Hack4U-Student-FF1744?style=flat-square">
+</a>
+<a href="https://www.youtube.com/@d3monsec">
+<img src="https://img.shields.io/badge/YouTube-d3monsec-FF0000?style=flat-square&logo=youtube">
+</a>
+<a href="https://www.linkedin.com/feed/">
+<img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=flat-square&logo=linkedin&logoColor=0B1110">
+</a>
+
+</div>
+
+---
+
+## 🛡️ About
+
+I'm **Dervi RMX**, focused on **Cybersecurity**, CTFs and practical security learning.
+
+I'm currently studying **Cybersecurity at Hack4U** and using platforms such as **Hack The Box** to develop my skills through hands-on practice.
+
+My interests include:
+
+`Cybersecurity` · `CTF` · `Security Labs` · `Linux` · `Web Security` · `Access Control` · `Risk Management` · `Security Automation`
+
+---
+
+## 👾 Hack The Box
+
+<div align="center">
+
+### `@dervi`
+
+**Demon god of dark**
+
+<br>
+
+<a href="https://app.hackthebox.com/profile/overview">
+<img src="https://img.shields.io/badge/OPEN_HTB_PROFILE-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=0B1110">
+</a>
+
+</div>
+
+Hack The Box is part of my practical cybersecurity training, where I work through security challenges and controlled environments.
+
+---
+
+## 🎓 Hack4U
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CYBERSECURITY_STUDENT-FF1744?style=for-the-badge">
+
+<br><br>
+
+I'm studying **Cybersecurity at Hack4U**.
+
+<a href="https://hack4u.io">
+<img src="https://img.shields.io/badge/Visit_Hack4U-7C4DFF?style=for-the-badge">
+</a>
+
+</div>
+
+---
+
+## 🚀 Projects
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### 🔴 Bot Dervi WhatsApp
+
+Automation project focused on WhatsApp, including administration, moderation, access control and integrations.
+
+**Focus**
+
+`Automation`  
+`Security`  
+`Access Control`  
+`AI`
+
+<br>
+
+<a href="https://github.com/Dervi-RMX/Bot-dervi-whatsapp">
+<img src="https://img.shields.io/badge/Repository-FF1744?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🟢 BlackForge CTF
+
+Cybersecurity laboratory focused on practical learning and CTF-style security environments.
+
+**Focus**
+
+`Cybersecurity`  
+`CTF`  
+`Security Labs`  
+`Investigation`
+
+<br>
+
+<a href="https://github.com/Dervi-RMX/blackforge-ctf">
+<img src="https://img.shields.io/badge/Lab-00C853?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🟣 69 Flags Challenge
+
+CTF challenge focused on investigation and identifying the valid flag among decoys.
+
+**Stack**
+
+`Python`  
+`Docker`  
+`CTF`
+
+<br>
+
+<a href="https://github.com/Dervi-RMX/ctf-69flags-challenge">
+<img src="https://img.shields.io/badge/Challenge-7C4DFF?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🔬 Security Focus
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/WEB_SECURITY-FF1744?style=for-the-badge">
+<img src="https://img.shields.io/badge/LINUX-00C853?style=for-the-badge&logo=linux&logoColor=0B1110">
+<img src="https://img.shields.io/badge/CTF-7C4DFF?style=for-the-badge">
+<img src="https://img.shields.io/badge/ACCESS_CONTROL-00E5FF?style=for-the-badge&logoColor=0B1110">
+<img src="https://img.shields.io/badge/RISK-FF6D00?style=for-the-badge">
+
+</div>
+
+<br>
+
+```text
+        ┌─────────────────────────────┐
+        │        CYBERSECURITY        │
+        └──────────────┬──────────────┘
+                       │
+        ┌──────────────┼──────────────┐
+        │              │              │
+        ▼              ▼              ▼
+      🔎 CTF       🔬 LABS       🔐 SECURITY
+        │              │              │
+        └──────────────┼──────────────┘
+                       ▼
+                 PRACTICAL SKILLS
