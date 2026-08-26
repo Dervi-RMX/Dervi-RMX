@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://app.hackthebox.com/profile/overview">
+<a href="https://profile.hackthebox.com/profile/019c82db-768a-70dc-8f64-10e3cddac63f?utm_medium=copy_url">
 <img src="https://img.shields.io/badge/CTF-7C4DFF?style=for-the-badge&logo=hackthebox&logoColor=00E5FF&labelColor=080B12">
 </a>
 
@@ -12,7 +12,7 @@
 
 <br><br>
 
-<a href="https://app.hackthebox.com/profile/overview">
+<a href="https://profile.hackthebox.com/profile/019c82db-768a-70dc-8f64-10e3cddac63f?utm_medium=copy_url">
 <img src="https://img.shields.io/badge/HACK_THE_BOX-@dervi-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=0B1110&labelColor=080B12">
 </a>
 
@@ -47,18 +47,20 @@
 <br>
 
 <img src="https://img.shields.io/badge/SECURITY-FF1744?style=flat-square">
-<img src="https://img.shields.io/badge/CTF-7C4DFF?style=flat-square">
+<a href="https://profile.hackthebox.com/profile/019c82db-768a-70dc-8f64-10e3cddac63f?utm_medium=copy_url">
+<img src="https://img.shields.io/badge/CTF-7C4DFF?style=flat-square&logo=hackthebox&logoColor=00E5FF">
+</a>
 <img src="https://img.shields.io/badge/LABS-00C853?style=flat-square">
 <img src="https://img.shields.io/badge/LINUX-00E5FF?style=flat-square">
 <img src="https://img.shields.io/badge/AUTOMATION-FF6D00?style=flat-square">
 
 </div>
 
-I'm **Dervi RMX**, focused on cybersecurity and practical security learning.
+I'm **Dervi RMX**, focused on **Cybersecurity**, CTFs and practical security learning.
 
-Currently studying **Cybersecurity at Hack4U** and developing my skills through **CTFs, Hack The Box, security labs and personal projects**.
+I'm currently studying **Cybersecurity at Hack4U** and using **Hack The Box** to develop my skills through hands-on practice.
 
-My main areas of interest are:
+My interests include:
 
 `Cybersecurity` · `CTF` · `Security Labs` · `Linux` · `Web Security` · `Access Control` · `Risk Management` · `Security Automation`
 
@@ -68,7 +70,7 @@ My main areas of interest are:
 
 ## 👾 HACK THE BOX
 
-<a href="https://app.hackthebox.com/profile/overview">
+<a href="https://profile.hackthebox.com/profile/019c82db-768a-70dc-8f64-10e3cddac63f?utm_medium=copy_url">
 
 <img src="https://img.shields.io/badge/@dervi-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=0B1110&labelColor=101820">
 
@@ -82,7 +84,7 @@ My main areas of interest are:
 
 <br>
 
-<a href="https://app.hackthebox.com/profile/overview">
+<a href="https://profile.hackthebox.com/profile/019c82db-768a-70dc-8f64-10e3cddac63f?utm_medium=copy_url">
 
 <img src="https://img.shields.io/badge/OPEN_MY_HTB_PROFILE-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=0B1110">
 
@@ -198,7 +200,7 @@ CTF challenge focused on investigation and identifying the valid flag among deco
 
 <br><br>
 
-<a href="https://app.hackthebox.com/profile/overview">
+<a href="https://profile.hackthebox.com/profile/019c82db-768a-70dc-8f64-10e3cddac63f?utm_medium=copy_url">
 <img src="https://img.shields.io/badge/MY_CTF_PROFILE-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=0B1110">
 </a>
 
@@ -213,7 +215,7 @@ CTF challenge focused on investigation and identifying the valid flag among deco
 
 ## 🔬 SECURITY FOCUS
 
-<a href="https://app.hackthebox.com/profile/overview">
+<a href="https://profile.hackthebox.com/profile/019c82db-768a-70dc-8f64-10e3cddac63f?utm_medium=copy_url">
 <img src="https://img.shields.io/badge/CTF-7C4DFF?style=for-the-badge&logo=hackthebox&logoColor=00E5FF">
 </a>
 
@@ -236,6 +238,8 @@ CTF challenge focused on investigation and identifying the valid flag among deco
 </div>
 
 <br>
+
+<div align="center">
 
 ```text
                          CYBERSECURITY
