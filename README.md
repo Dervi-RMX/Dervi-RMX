@@ -22,6 +22,10 @@
 <img src="https://img.shields.io/badge/HACK4U-STUDENT-FF1744?style=for-the-badge&labelColor=080B12">
 </a>
 
+<a href="https://www.linkedin.com/in/dervi-hern%C3%A1ndez-tapia-7830b9367/">
+<img src="https://img.shields.io/badge/LINKEDIN-DERVI_RMX-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=080B12">
+</a>
+
 </div>
 
 ---
@@ -110,6 +114,30 @@ I'm building my cybersecurity foundation through structured training and practic
 
 <a href="https://hack4u.io">
 <img src="https://img.shields.io/badge/VISIT_HACK4U-7C4DFF?style=for-the-badge">
+</a>
+
+</div>
+
+---
+
+## 🔗 LINKEDIN
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/dervi-hern%C3%A1ndez-tapia-7830b9367/">
+<img src="https://img.shields.io/badge/CONNECT_WITH_ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF">
+</a>
+
+<br><br>
+
+### `Cybersecurity Student | CTF Enthusiast | Security Labs`
+
+I'm actively building my professional network in the cybersecurity field.
+
+<br>
+
+<a href="https://www.linkedin.com/in/dervi-hern%C3%A1ndez-tapia-7830b9367/">
+<img src="https://img.shields.io/badge/VIEW_MY_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF">
 </a>
 
 </div>
